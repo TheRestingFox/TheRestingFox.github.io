@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Tardigrade
+title: The Resting Fox
 locale: en_US
-description: Losing my mind settin up jekyll
-logo: tardigrade.png
+description: Massage Therapy
+logo: mini_logo2.jpg
 url: https://therestingfox.github.io
 
 # Jekyll configuration
@@ -33,16 +33,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: the tardigrade
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  email: d.samo.trfm@gmail.com
+  disqus-shortname: #sosimpletheme
+  twitter: #mmistakes
+  facebook: /profile.php?id=61554317871609
+  github: #mmistakes
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: #mmistakes
   flickr:
-  tumblr: mademistakes
+  tumblr: #mademistakes
   pinterest:
   weibo:
   google:
