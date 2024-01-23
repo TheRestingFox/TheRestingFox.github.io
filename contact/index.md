@@ -4,7 +4,7 @@ title: contact
 excerpt: "contact"
 modified: 
 image:
-  feature: logo.jpg
+  feature: logo2.jpg
 ---
 
 #### Mailing Address
