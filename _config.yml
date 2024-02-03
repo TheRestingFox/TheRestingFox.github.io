@@ -31,8 +31,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: the tardigrade
-  avatar: michael-rose-photo.jpg
+  name: The Resting Fox Massage
+  avatar: logo.jpg
   email: d.samo.trfm@gmail.com
   disqus-shortname: #sosimpletheme
   twitter: #mmistakes
